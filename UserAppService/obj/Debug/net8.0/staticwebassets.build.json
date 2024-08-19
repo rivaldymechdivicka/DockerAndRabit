@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RPmmGnduydXNIWaETI3XdYau71+DFPP6GdEiUDlgIto=",
+  "Source": "UserAppService",
+  "BasePath": "_content/UserAppService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
